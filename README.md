@@ -1,2 +1,2 @@
 # The-Tech-Academy-Large-HTML-CSS-Projects
-This is a collection of large Tech Academy projects in HTML and CSS created for learning purposes
+The ZipTie application is an exercise in HTML and CSS using Bootstrap to format and style a simple website advertising my former product the ZipTie.
